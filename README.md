@@ -1,0 +1,2 @@
+# gitt
+Practicing git commands
